@@ -27,27 +27,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-### 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</div>
-
----
-
-### ✍️ Medium Posts
-
-<div align="center">
-  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_USERNAME/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@YOUR_MEDIUM_USERNAME/0" />
-  </a>
-</div>
