@@ -35,7 +35,6 @@ I'm a Computer Engineering student passionate about building software, exploring
 
 I enjoy understanding how things work, developing projects from scratch, and continuously improving my technical skills.
 
-My goal is simple: **write better code, build meaningful projects, and become a skilled software engineer.**
 
 ---
 
@@ -77,19 +76,8 @@ My goal is simple: **write better code, build meaningful projects, and become a 
 
 ---
 
-## 04 / FEATURED PROJECTS
 
-<div align="center">
-
-<a href="https://github.com/Mohamed-Amine-Addi/App-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Amine-Addi&repo=App-Store&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-
-</div>
-
----
-
-## 05 / CONNECT WITH ME
+## 04 / CONNECT WITH ME
 
 <div align="center">
 
