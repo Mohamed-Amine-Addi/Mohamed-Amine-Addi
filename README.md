@@ -63,11 +63,6 @@ I enjoy understanding how things work, developing projects from scratch, and con
 ## 03 / GITHUB ANALYTICS
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Addi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amine-Addi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-
 <br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=Mohamed-Amine-Addi&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
